@@ -1,6 +1,6 @@
 # McGrathNicol VirtualInternship Task2
 
-##Here is the background information on your task
+## Here is the background information on your task
 
 The vast majority of security breaches take place when attackers gain access to an environment by stealing a user’s identity. Discovering compromised identities can be tricky and often involve sifting through large quantities of data looking for suspicious activity (i.e. external IP addresses logging into accounts and altering rules that differ from the known IPs).
 
